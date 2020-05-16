@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata: 
+  name: blockchain-service-socket
+  namespace: blockchain
+spec:
+  selector:
+    app: blockchain-uniminuto
+  ports:
+  - protocol: TCP
+    port: 6001
+    nodePort: 31001
+    targetPort: 6001
+    name: listen-socket
+  type: NodePort

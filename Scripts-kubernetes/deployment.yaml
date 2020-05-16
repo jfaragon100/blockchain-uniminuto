@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: deployment1
+  namespace: blockchain
+spec:
+  replicas: 2
+  selector: 
+    matchLabels: 
+      app: blockchain-uniminuto
+  template: 
+    metadata:
+      labels: 
+        app: blockchain-uniminuto
+    spec: 
+      containers: 
+      - name: blockchian-uniminuto-containerv1
+        image: jfaragon/blockchain-uniminutov1:firsttry
+        imagePullPolicy: Always
+        ports: 
+        - containerPort: 3001
+          name: svcserver
+        - containerPort: 6001
+          name: listen-socket
+
+
+
+
