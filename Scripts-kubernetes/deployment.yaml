@@ -18,7 +18,7 @@ spec:
         image: jfaragon/blockchain-uniminutov1:firsttry
         imagePullPolicy: Always
         ports: 
-        - containerPort: 3001
+        - containerPort: 8080
           name: svcserver
         - containerPort: 6001
           name: listen-socket
