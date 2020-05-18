@@ -22,11 +22,13 @@ La segunda está enfocada en determinar la arquitectura del proyecto y con el cu
 ## Estructura Blockchain Uniminuto
 
 Esta estructura es de caracter educativa y se elaboró con medidas y configuraciones básicas, que podrán ser mejoradas y modificadas según se considere necesario para adicionar funcionalidades y vonvertirla en un ambiente más estable para su enseñanza y/o uso de la Unversidad Minuto de Dios.
-Contiene las siguientes características 
-- Interfaz HTTP para controlar el nodo
-- Use Websockets para comunicarse con otros nodos (P2P)
-- "Protocolos" super simples en la comunicación P2P
-- Los datos no persisten en los nodos
+
+Contiene las siguientes características:
+ 
+- Se cuenta con una Interfaz HTTP para controlar los nodos.
+- Se utilizan  Websockets para la comunicación entre los nodos (P2P).
+- Los "Protocolos" para la comunicación P2P son simples.
+- Los datos no se guardan en los nodos. Éstos son el
 - Sin prueba de trabajo o prueba de participación: se puede agregar un bloque a la cadena de bloques sin competencia
 
 ![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1972&x=86&y=1790&w=1168&h=646&store=1&accept=image%2F*&auth=LCA%2034f8729c4cc0838d14d0aea8b6b1eb4428af3cea-ts%3D1589770150)
@@ -172,8 +174,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyOTYzODIxLC0xNzgwNTQwNDA4LDE2Mj
-U0MTg4NjQsLTE5ODY0NjEyNzEsLTI4MzI0MTU5OCwtMzA4MjM4
-NTQ2LC02OTAwNjc4LC00MTczMjE3MDMsLTE3MDAxNzY1MTcsMT
-AzNTUxNTYyNl19
+eyJoaXN0b3J5IjpbLTc3NTk1NTg3OSwtMTc4MDU0MDQwOCwxNj
+I1NDE4ODY0LC0xOTg2NDYxMjcxLC0yODMyNDE1OTgsLTMwODIz
+ODU0NiwtNjkwMDY3OCwtNDE3MzIxNzAzLC0xNzAwMTc2NTE3LD
+EwMzU1MTU2MjZdfQ==
 -->
