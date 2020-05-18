@@ -39,9 +39,9 @@ Para usar ésta herramienta se deben contar con conocimientos básicos de Git, D
 Se debe instalar en la máquina local docker y descargar la imagen desde `(https://hub.docker.com/repository/docker/jfaragon/blockchain-uniminutov1/general)`. Para guiarse en el proceso se pueden soportar en el repositorio `https://github.com/jfaragon100/blockchain-uniminuto`. En éste se detalla la información del proyecto, con sus alcances y limitaciones, así como su funcionamiento, en cada uno de los recursos utilizados, desde el ambito de programación como de arquitectura.
 
 Con la instalación y puesta en marcha de docker, se iniciará el servicio con un bloque en el cual se encontrarán datos iniciales, como lo son, su "Nombre", el Hash de su predecesor "0" (para el primer bloque), su "Timestamp", los datos dentro del bloque que en este caso son datos de ejemplo de un estudiante (Nombre, Carrera, Semestre), su Hash propio, el cual será construido con los parámetros que se muestran en la imagen de la estructura.
-Con los comandos descritos en **Readme develop**, para el uso de docker, se puede ver el estatus de la blockchain, se pueden minar bloques con información personalizada dentro del mismo y se podrá observar como se cumplen los parámetros descritos en la es
+Con los comandos descritos en **Readme develop**, para el uso de docker, se puede ver el estatus de la blockchain, se pueden minar bloques con información personalizada dentro del mismo y se podrá observar como se cumplen los parámetros descritos en la estructura del mismo.
     
--   **Licencia para el código de la herramienta:** Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
+-   **Licencia para el código de la herramienta:** Ésta herramienta es de caracter educativa y su uso se establece para la Universidad Minuto de Dios y para ser usada como referente en la práctica de enseñanza para carreras tecnPermisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
     
 -   **Licencia para la documentación de la herramienta:** Recomendamos el uso de las licencias creative commons para el licenciamiento de la documentación de las herramientas. La CC0-1.0, CC-BY-4.0 y CC-BY-SA-4.0 por ejemplo son licencias abiertas que se utilizan para material que no es de software, desde conjuntos de datos hasta videos. Tenga en cuenta que CC-BY-4.0 y CC-BY-SA-4.0 no deben usarse para el software.
     
@@ -56,8 +56,8 @@ La audiencia principal de la documentación son desarrolladores. No obstante, la
 
 -   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzk2NzE1MCwtNTM1Nzg2MjQ1LDUzOT
-QxMzczMiwtMTc4MDU0MDQwOCwxNjI1NDE4ODY0LC0xOTg2NDYx
-MjcxLC0yODMyNDE1OTgsLTMwODIzODU0NiwtNjkwMDY3OCwtND
-E3MzIxNzAzLC0xNzAwMTc2NTE3LDEwMzU1MTU2MjZdfQ==
+eyJoaXN0b3J5IjpbNDAzNzQwNTQ2LC01MzU3ODYyNDUsNTM5ND
+EzNzMyLC0xNzgwNTQwNDA4LDE2MjU0MTg4NjQsLTE5ODY0NjEy
+NzEsLTI4MzI0MTU5OCwtMzA4MjM4NTQ2LC02OTAwNjc4LC00MT
+czMjE3MDMsLTE3MDAxNzY1MTcsMTAzNTUxNTYyNl19
 -->
