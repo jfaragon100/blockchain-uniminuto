@@ -49,9 +49,12 @@ La audiencia principal de la herramienta y la documentación son profesores y es
 -   **Licencia para el código de la herramienta:** Ésta herramienta es de caracter educativo y su uso se establece exclusivamente para la Universidad Minuto de Dios, para ser usada como referente en la práctica de enseñanza en carreras tecnológicas y de ingeniería de Sistemas.
 
 -   **Autores** 
-- Universidad Minuto de DiosSección para dar créditos a los colaboradores de la herramienta.
+- John Fredy Aragón C.
+	Estudiante Tecnología en redes de computadores y seguridad Informática.
+- Ing. Jaider Ospina Navas 
+	Tutor y Líder de Semillero de Investigación "Blockchain".  Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg0MTM5MDMsLTUzNTc4NjI0NSw1Mz
+eyJoaXN0b3J5IjpbLTEwODU2NzIzNjQsLTUzNTc4NjI0NSw1Mz
 k0MTM3MzIsLTE3ODA1NDA0MDgsMTYyNTQxODg2NCwtMTk4NjQ2
 MTI3MSwtMjgzMjQxNTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLT
 QxNzMyMTcwMywtMTcwMDE3NjUxNywxMDM1NTE1NjI2XX0=
