@@ -19,7 +19,7 @@ La primera de estas es el ambiente de desarrollo de la app que garantizará la i
 La segunda está enfocada en determinar la arquitectura del proyecto y con el cual podrá realizarse una distribución o replicación determinada por el tutor encargado de la misma. Se considera la elaboración como una guía facil en cuanto a su interpretación y y posible interacción de los usuarios quienes accedan a ella.  **Ver Readme develop**. 
 
 
-## Create files and folders
+## Estructura Blockchain Uniminuto
 
 
 ![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1377&x=89&y=1811&w=1103&h=178&store=1&accept=image%2F*&auth=LCA%2031dd68e5c935e947a2761c84c6d8b35ffd955d84-ts%3D1589770150)
@@ -157,6 +157,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ5OTA5NDEsLTQxNzMyMTcwMywtMT
-cwMDE3NjUxNywxMDM1NTE1NjI2XX0=
+eyJoaXN0b3J5IjpbLTY5MDA2NzgsLTQxNzMyMTcwMywtMTcwMD
+E3NjUxNywxMDM1NTE1NjI2XX0=
 -->
