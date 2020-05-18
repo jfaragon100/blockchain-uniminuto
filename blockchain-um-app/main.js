@@ -23,7 +23,7 @@ class Hash {
 }
 
 class Student {
-    constructor (id, name, title, half) {
+    constructor (name, title, half) {
         this.name = name;
         this.title = title;
         this.half = half;
@@ -59,13 +59,15 @@ class Block {
     isValid (lastBlock) {
         if (lastBlock.index + 1 !== this.index) {
             console.log('invalid index');
+            responseMsj = ResponseMessage.NEW_BLOCK_INVALID_INDEX;
             return false;
         } else if (lastBlock.hash !== this.previousHash) {
             console.log('invalid previoushash');
+            responseMsj = ResponseMessage.NEW_BLOCK_INVALID_PREVIOUS_HASH;
             return false;
         } else if (Hash.calculateForBlock(this) !== this.hash) {
-            console.log(typeof (this.hash) + ' ' + typeof Hash.calculateForBlock(this));
             console.log('invalid hash: ' + Hash.calculateForBlock(this) + ' ' + this.hash);
+            responseMsj = ResponseMessage.NEW_BLOCK_INVALID_HASH;
             return false;
         }
         return true;
@@ -86,6 +88,7 @@ class BlockChain {
     addBlock (newBlock) {
         if (newBlock.isValid(this.lastBlockInChain())) {
             this.chain.push(newBlock);
+            responseMsj = ResponseMessage.NEW_BLOCK_SUCCESSFUL;
         }
     }
 }
@@ -100,6 +103,15 @@ const MessageType = Object.freeze({
     "QUERY_LATEST": 0,
     "QUERY_ALL": 1,
     "RESPONSE_BLOCKCHAIN": 2
+});
+
+const ResponseMessage = Object.freeze({
+    "NEW_BLOCK_SUCCESSFUL": "Nuevo bloque en cadena local",
+    "NEW_BLOCK_INVALID_INDEX": "No se añadió bloque: index inválido",
+    "NEW_BLOCK_INVALID_HASH": "No se añadió bloque: hash inválido",
+    "NEW_BLOCK_INVALID_PREVIOUS_HASH": "No se añadió bloque: hash previo inválido",
+    "NEW_NODE_SUCCESSFUL": "Nueva conexión a nodo",
+    "NEW_NODE_FAILURE": "Falló conexión a nodo"
 });
 
 //Socket
@@ -125,21 +137,20 @@ var initHttpServer = () => {
         var newBlock = Block.generateBlock(req.body.data);
         console.log(req.body.data);
         blockChain.addBlock(newBlock);
-        console.log('block added: ' + JSON.stringify(newBlock));
-        res.send();
+        res.send(responseMsj);
     });
    app.get('/nodes', (req, res) => {
         res.send(res.send(JSON.stringify(s.lstSockets)));
     });
     app.post('/addNode', (req, res) => {
         connectToNodes([req.body.peer]);
-        res.send();
+        res.send(responseMsj);
     });
     app.listen(config.server_port, () => console.log('Listening http on port: ' + config.server_port));
 };
 
 
-
+var responseMsj = "";
 var config = new Config();
 var blockChain = new BlockChain();
 var s = new Sockets();
