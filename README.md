@@ -37,7 +37,7 @@ Contiene las siguientes características:
 
 Para usar ésta herramienta se deben contar con conocimientos básicos de Git, Docker y Kubernetes, pues son las plataformas con las que se interactuan para poner en funcionamiento la misma.
 
-Se debe instalar en la máquina local docker y descargar la imagen desde `(https://hub.docker.com/repository/docker/jfaragon/blockchain-uniminutov1/general)`. Para guiarse en el proceso se pueden soportar en el repositorio `https://github.com/jfaragon100/blockchain-uniminuto`. En éste se detalla la información del proyecto, con sus alcances y limitaciones, así como su funcionamiento, en cada uno de los recursos utilizados, desde el ambito de programación como de arquitectura.
+Se debe instalar en la máquina local docker y descargar la imagen desde [https://hub.docker.com/repository/docker/jfaragon/blockchain-uniminutov1/general](https://hub.docker.com/repository/docker/jfaragon/blockchain-uniminutov1/general). Para guiarse en el proceso se pueden soportar en el repositorio https://github.com/jfaragon100/blockchain-uniminuto. En éste se detalla la información del proyecto, con sus alcances y limitaciones, así como su funcionamiento, en cada uno de los recursos utilizados, desde el ambito de programación como de arquitectura.
 
 Con la instalación y puesta en marcha de docker, se iniciará el servicio con un bloque en el cual se encontrarán datos iniciales, como lo son, su "Nombre", el Hash de su predecesor "0" (para el primer bloque), su "Timestamp", los datos dentro del bloque que en este caso son datos de ejemplo de un estudiante (Nombre, Carrera, Semestre), su Hash propio, el cual será construido con los parámetros que se muestran en la imagen de la estructura.
 Con los comandos descritos en **Readme develop**, para el uso de docker, se puede ver el estatus de la blockchain, se pueden minar bloques con información personalizada dentro del mismo y se podrá observar como se cumplen los parámetros descritos en la estructura del mismo.
@@ -57,9 +57,9 @@ La audiencia principal de la herramienta y la documentación son profesores y es
 - Ing. Yury Bohórquez M.
 	Apoyo en código fuente NodeJs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzI2MDY4OSwtMTA5ODc1NzI5MiwtND
-Y3NjM2NDIwLC01MzU3ODYyNDUsNTM5NDEzNzMyLC0xNzgwNTQw
-NDA4LDE2MjU0MTg4NjQsLTE5ODY0NjEyNzEsLTI4MzI0MTU5OC
-wtMzA4MjM4NTQ2LC02OTAwNjc4LC00MTczMjE3MDMsLTE3MDAx
-NzY1MTcsMTAzNTUxNTYyNl19
+eyJoaXN0b3J5IjpbMTgzMDgxMTQ5LC0xMDk4NzU3MjkyLC00Nj
+c2MzY0MjAsLTUzNTc4NjI0NSw1Mzk0MTM3MzIsLTE3ODA1NDA0
+MDgsMTYyNTQxODg2NCwtMTk4NjQ2MTI3MSwtMjgzMjQxNTk4LC
+0zMDgyMzg1NDYsLTY5MDA2NzgsLTQxNzMyMTcwMywtMTcwMDE3
+NjUxNywxMDM1NTE1NjI2XX0=
 -->
