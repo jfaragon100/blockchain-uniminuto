@@ -34,7 +34,7 @@ Contiene las siguientes características:
 ![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1972&x=86&y=1790&w=1168&h=646&store=1&accept=image%2F*&auth=LCA%2034f8729c4cc0838d14d0aea8b6b1eb4428af3cea-ts%3D1589770150)
 ## Funcionamiento
 
-Esta herram
+Para usar ésta herramienta se deben contar con conocimientos básicos de Git, Docker, Kubernetes pues 
     
 -   **Licencia para el código de la herramienta:** Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
     
@@ -51,8 +51,8 @@ La audiencia principal de la documentación son desarrolladores. No obstante, la
 
 -   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTg2Mjk5LDUzOTQxMzczMiwtMTc4MD
-U0MDQwOCwxNjI1NDE4ODY0LC0xOTg2NDYxMjcxLC0yODMyNDE1
-OTgsLTMwODIzODU0NiwtNjkwMDY3OCwtNDE3MzIxNzAzLC0xNz
-AwMTc2NTE3LDEwMzU1MTU2MjZdfQ==
+eyJoaXN0b3J5IjpbMTU1MjczMDQ2Niw1Mzk0MTM3MzIsLTE3OD
+A1NDA0MDgsMTYyNTQxODg2NCwtMTk4NjQ2MTI3MSwtMjgzMjQx
+NTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLTQxNzMyMTcwMywtMT
+cwMDE3NjUxNywxMDM1NTE1NjI2XX0=
 -->
