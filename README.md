@@ -1,18 +1,3 @@
-<<<<<<< HEAD
----
-
-
----
-
-<h1 id="scripts-kubernetes">Scripts-kubernetes</h1>
-<p>En ésta sección encontramos cuatro recursos, los cuales son de una importancia relevante y con los cuales se genera el ambiente que nos permitirá trabajar desde kubernetes. En estos se encuentra toda la información necesaria para que desde un ambiente DevOps el sistema funcione con un despliegue ligero y efectivo.</p>
-<h2 id="blockchain-1.yaml">blockchain-1.yaml</h2>
-<p>Este Script determina el namespace de nuestro proyecto y al cual nos referiremos en todo momento desde Kubernetes.</p>
-<ul>
-<li>Definimos a  de estaliar  un ern us lo uamient interactua para  máquina localdeloos qu
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkxNjQxNjhdfQ==
-=======
 # Arquitectura Blockchain empleando contenedores para su enseñanza.
 
 Este proyecto está concebido por la iniciativa de dar a conocer y apoyar  el proceso de formación en tendencias tecnologicas como la industria 4.0 en éste caso referentes a Blockchain. Teniendo como bases, el aporte desde el ámbito educativo de un estudiante de Tecnología en Redes de computadores y seguridad informática de la Universidad Minuto de Dios, así como el docente encargado de dar guía y apoyar el proceso de construcción del mismo. (Para éste proyecto se tomó como referencia la fuente https://github.com/lhartikk/naivechain).
@@ -71,8 +56,3 @@ La audiencia principal de la herramienta y la documentación son profesores y es
 	Tutor y Líder de Semillero de Investigación "Blockchain".
 - Ing. Yury Bohórquez M.
 	Apoyo en código fuente NodeJs.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDA2ODY0NiwxODMwODExNDksLTE5OD
-MwNjExMzIsLTQ2NzYzNjQyMF19
->>>>>>> parent of 6124648... README.md updated from https://stackedit.io/
--->
