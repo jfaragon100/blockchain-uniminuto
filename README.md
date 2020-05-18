@@ -1,6 +1,6 @@
 # Arquitectura Blockchain empleando contenedores para su enseñanza.
 
-Este proyecto está concebido por la iniciativa de dar a conocer y apoyar  el proceso de formación en tendencias tecnologicas como la industria 4.0 en éste caso referentes a Blockchain. Teniendo como bases, el aporte desde el ámbito educativo de un estudiante de Tecnología en Redes de computadores y seguridad informática de la Universidad Minuto de Dios, así como el docente encargado de dar guía y apoyar el proceso de construcción del mismo. (Para éste proyecto se tomó como referencia https://github.com/lhartikk/naivechainla fuente
+Este proyecto está concebido por la iniciativa de dar a conocer y apoyar  el proceso de formación en tendencias tecnologicas como la industria 4.0 en éste caso referentes a Blockchain. Teniendo como bases, el aporte desde el ámbito educativo de un estudiante de Tecnología en Redes de computadores y seguridad informática de la Universidad Minuto de Dios, así como el docente encargado de dar guía y apoyar el proceso de construcción del mismo. (Para éste proyecto se tomó como referencia la fuente https://github.com/lhartikk/naivechain).
 
 # Qué es Blockchain?
 
@@ -21,8 +21,14 @@ La segunda está enfocada en determinar la arquitectura del proyecto y con el cu
 
 ## Estructura Blockchain Uniminuto
 
+Esta estructura es de caracter educativa y se elaboró con 
+- Interfaz HTTP para controlar el nodo
+- Use Websockets para comunicarse con otros nodos (P2P)
+- "Protocolos" super simples en la comunicación P2P
+- Los datos no persisten en los nodos
+- Sin prueba de trabajo o prueba de participación: se puede agregar un bloque a la cadena de bloques sin competencia
+
 ![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1972&x=86&y=1790&w=1168&h=646&store=1&accept=image%2F*&auth=LCA%2034f8729c4cc0838d14d0aea8b6b1eb4428af3cea-ts%3D1589770150)
-Para la elaboración de la cadena de bloques se tomó como base 
 
 
 
@@ -165,7 +171,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODAyNTAyNiwtMTc4MDU0MDQwOCwxNj
+eyJoaXN0b3J5IjpbLTEyMjUyMTY2NywtMTc4MDU0MDQwOCwxNj
 I1NDE4ODY0LC0xOTg2NDYxMjcxLC0yODMyNDE1OTgsLTMwODIz
 ODU0NiwtNjkwMDY3OCwtNDE3MzIxNzAzLC0xNzAwMTc2NTE3LD
 EwMzU1MTU2MjZdfQ==
