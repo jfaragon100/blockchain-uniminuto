@@ -40,25 +40,18 @@ Se debe instalar en la máquina local docker y descargar la imagen desde `(https
 
 Con la instalación y puesta en marcha de docker, se iniciará el servicio con un bloque en el cual se encontrarán datos iniciales, como lo son, su "Nombre", el Hash de su predecesor "0" (para el primer bloque), su "Timestamp", los datos dentro del bloque que en este caso son datos de ejemplo de un estudiante (Nombre, Carrera, Semestre), su Hash propio, el cual será construido con los parámetros que se muestran en la imagen de la estructura.
 Con los comandos descritos en **Readme develop**, para el uso de docker, se puede ver el estatus de la blockchain, se pueden minar bloques con información personalizada dentro del mismo y se podrá observar como se cumplen los parámetros descritos en la estructura del mismo.
-    
--   **Licencia para el código de la herramienta:** Ésta herramienta es de caracter educativo y su uso se establece exclusivamente para la Universidad Minuto de Dios, para ser usada como referente en la práctica de enseñanza en carreras tecnológicas y de ingeniería de Sistemas.
-- 
-Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
-    
--   **Licencia para la documentación de la herramienta:** Recomendamos el uso de las licencias creative commons para el licenciamiento de la documentación de las herramientas. La CC0-1.0, CC-BY-4.0 y CC-BY-SA-4.0 por ejemplo son licencias abiertas que se utilizan para material que no es de software, desde conjuntos de datos hasta videos. Tenga en cuenta que CC-BY-4.0 y CC-BY-SA-4.0 no deben usarse para el software.
-    
 
-Para herramientas desarrolladas por el BID por el momento recomendamos usar la Creative Commons IGO 3.0 Attribution-NonCommercial-NoDerivative (CC-IGO 3.0 BY-NC-ND).
-
+    
 ## ¿A quién va dirigida la documentación?
 
 La audiencia principal de la documentación son desarrolladores. No obstante, la sección de la guía de usuario va dirigida a los usuarios finales de la herramienta. Si esta sección es muy compleja, es una buena práctica dedicar un documento específico para esto. Aunque en el archivo Readme se debe especificar la existencia de esta documentación extra.
 
-
+    
+-   **Licencia para el código de la herramienta:** Ésta herramienta es de caracter educativo y su uso se establece exclusivamente para la Universidad Minuto de Dios, para ser usada como referente en la práctica de enseñanza en carreras tecnológicas y de ingeniería de Sistemas.
 
 -   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUzMTI5NzYsLTUzNTc4NjI0NSw1Mz
+eyJoaXN0b3J5IjpbLTE0NDA3MTk1NTksLTUzNTc4NjI0NSw1Mz
 k0MTM3MzIsLTE3ODA1NDA0MDgsMTYyNTQxODg2NCwtMTk4NjQ2
 MTI3MSwtMjgzMjQxNTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLT
 QxNzMyMTcwMywtMTcwMDE3NjUxNywxMDM1NTE1NjI2XX0=
