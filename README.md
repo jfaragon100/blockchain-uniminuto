@@ -36,7 +36,7 @@ Contiene las siguientes características:
 
 Para usar ésta herramienta se deben contar con conocimientos básicos de Git, Docker, Kubernetes pues son las plataformas con las que se interactuan para poner en funcionamiento la misma.
 
-Se debe instalar en la máquina local docker e iniciar los servicios y descargar la imagen el repositorio `https://github.com/jfaragon100/blockchain-uniminuto`. Desde éste se realizará la iniciación y la persona designada 
+Se debe instalar en la máquina local docker y descargar la imagen desde `enter code here`e iniciar los servicios y d el repositorio `https://github.com/jfaragon100/blockchain-uniminuto`. Desde éste se realizará la iniciación y la persona designada 
     
 -   **Licencia para el código de la herramienta:** Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
     
@@ -53,8 +53,8 @@ La audiencia principal de la documentación son desarrolladores. No obstante, la
 
 -   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTc4NjI0NSw1Mzk0MTM3MzIsLTE3OD
-A1NDA0MDgsMTYyNTQxODg2NCwtMTk4NjQ2MTI3MSwtMjgzMjQx
-NTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLTQxNzMyMTcwMywtMT
-cwMDE3NjUxNywxMDM1NTE1NjI2XX0=
+eyJoaXN0b3J5IjpbMTQ2MTk5NTM2MiwtNTM1Nzg2MjQ1LDUzOT
+QxMzczMiwtMTc4MDU0MDQwOCwxNjI1NDE4ODY0LC0xOTg2NDYx
+MjcxLC0yODMyNDE1OTgsLTMwODIzODU0NiwtNjkwMDY3OCwtND
+E3MzIxNzAzLC0xNzAwMTc2NTE3LDEwMzU1MTU2MjZdfQ==
 -->
