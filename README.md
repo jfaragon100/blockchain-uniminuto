@@ -52,10 +52,12 @@ La audiencia principal de la herramienta y la documentación son profesores y es
 - John Fredy Aragón C.
 	Estudiante Tecnología en redes de computadores y seguridad Informática.
 - Ing. Jaider Ospina Navas 
-	Tutor y Líder de Semillero de Investigación "Blockchain".  Sección para dar créditos a los colaboradores de la herramienta.
+	Tutor y Líder de Semillero de Investigación "Blockchain".
+- Ing. Yury Bohorquez
+	Creadora de todo y sin ella nada hubiera sido posible !!Apoyo en código fuente NodeJs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU2NzIzNjQsLTUzNTc4NjI0NSw1Mz
-k0MTM3MzIsLTE3ODA1NDA0MDgsMTYyNTQxODg2NCwtMTk4NjQ2
-MTI3MSwtMjgzMjQxNTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLT
-QxNzMyMTcwMywtMTcwMDE3NjUxNywxMDM1NTE1NjI2XX0=
+eyJoaXN0b3J5IjpbMjEzODI4OTUwMiwtNTM1Nzg2MjQ1LDUzOT
+QxMzczMiwtMTc4MDU0MDQwOCwxNjI1NDE4ODY0LC0xOTg2NDYx
+MjcxLC0yODMyNDE1OTgsLTMwODIzODU0NiwtNjkwMDY3OCwtND
+E3MzIxNzAzLC0xNzAwMTc2NTE3LDEwMzU1MTU2MjZdfQ==
 -->
