@@ -22,7 +22,7 @@ La segunda está enfocada en determinar la arquitectura del proyecto y con el cu
 ## Estructura Blockchain Uniminuto
 
 ![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1972&x=86&y=1790&w=1168&h=646&store=1&accept=image%2F*&auth=LCA%2034f8729c4cc0838d14d0aea8b6b1eb4428af3cea-ts%3D1589770150)
-Para la elaboración de la cadena de bloques y tomando como base
+Para la elaboración de la cadena de bloques se tomó como base 
 
 
 
@@ -165,7 +165,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTQxODg2NCwtMTk4NjQ2MTI3MSwtMj
-gzMjQxNTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLTQxNzMyMTcw
-MywtMTcwMDE3NjUxNywxMDM1NTE1NjI2XX0=
+eyJoaXN0b3J5IjpbLTE3ODA1NDA0MDgsMTYyNTQxODg2NCwtMT
+k4NjQ2MTI3MSwtMjgzMjQxNTk4LC0zMDgyMzg1NDYsLTY5MDA2
+NzgsLTQxNzMyMTcwMywtMTcwMDE3NjUxNywxMDM1NTE1NjI2XX
+0=
 -->
