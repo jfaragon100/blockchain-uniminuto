@@ -54,11 +54,11 @@ La audiencia principal de la herramienta y la documentación son profesores y es
 - Ing. Jaider Ospina Navas 
 	Tutor y Líder de Semillero de Investigación "Blockchain".
 - Ing. Yury Bohórquez M.
-	Apoyo en código fuente NodeJs y estructura de datos.
+	Apoyo en código fuente NodeJs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg3NTcyOTIsLTQ2NzYzNjQyMCwtNT
-M1Nzg2MjQ1LDUzOTQxMzczMiwtMTc4MDU0MDQwOCwxNjI1NDE4
-ODY0LC0xOTg2NDYxMjcxLC0yODMyNDE1OTgsLTMwODIzODU0Ni
-wtNjkwMDY3OCwtNDE3MzIxNzAzLC0xNzAwMTc2NTE3LDEwMzU1
-MTU2MjZdfQ==
+eyJoaXN0b3J5IjpbMTQyOTk3Njk2OSwtMTA5ODc1NzI5MiwtND
+Y3NjM2NDIwLC01MzU3ODYyNDUsNTM5NDEzNzMyLC0xNzgwNTQw
+NDA4LDE2MjU0MTg4NjQsLTE5ODY0NjEyNzEsLTI4MzI0MTU5OC
+wtMzA4MjM4NTQ2LC02OTAwNjc4LC00MTczMjE3MDMsLTE3MDAx
+NzY1MTcsMTAzNTUxNTYyNl19
 -->
