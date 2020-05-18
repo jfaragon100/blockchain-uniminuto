@@ -32,7 +32,9 @@ Contiene las siguientes características:
 - No se ejecutan pruebas de trabajo (PoW) o prueba de participación. Se pueden agregar bloques a la cadena sin competencia.
 
 ![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1972&x=86&y=1790&w=1168&h=646&store=1&accept=image%2F*&auth=LCA%2034f8729c4cc0838d14d0aea8b6b1eb4428af3cea-ts%3D1589770150)
--   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
+## Funcionamiento
+
+Esta herram
     
 -   **Licencia para el código de la herramienta:** Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
     
@@ -44,9 +46,13 @@ Para herramientas desarrolladas por el BID por el momento recomendamos usar la C
 ## ¿A quién va dirigida la documentación?
 
 La audiencia principal de la documentación son desarrolladores. No obstante, la sección de la guía de usuario va dirigida a los usuarios finales de la herramienta. Si esta sección es muy compleja, es una buena práctica dedicar un documento específico para esto. Aunque en el archivo Readme se debe especificar la existencia de esta documentación extra.
+
+
+
+-   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE1ODY5NDAsNTM5NDEzNzMyLC0xNz
-gwNTQwNDA4LDE2MjU0MTg4NjQsLTE5ODY0NjEyNzEsLTI4MzI0
-MTU5OCwtMzA4MjM4NTQ2LC02OTAwNjc4LC00MTczMjE3MDMsLT
-E3MDAxNzY1MTcsMTAzNTUxNTYyNl19
+eyJoaXN0b3J5IjpbMjA0NTg2Mjk5LDUzOTQxMzczMiwtMTc4MD
+U0MDQwOCwxNjI1NDE4ODY0LC0xOTg2NDYxMjcxLC0yODMyNDE1
+OTgsLTMwODIzODU0NiwtNjkwMDY3OCwtNDE3MzIxNzAzLC0xNz
+AwMTc2NTE3LDEwMzU1MTU2MjZdfQ==
 -->
