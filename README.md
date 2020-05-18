@@ -44,15 +44,15 @@ Con los comandos descritos en **Readme develop**, para el uso de docker, se pued
     
 ## ¿A quién va dirigida la herramienta y la documentación?
 
-La audiencia principal de la herramienta y la documentación son profesores y estudiantes de carreras tecnológicas y de ingeniería de la Universidad Minuto de Dios, quienes podrán hacer uso y modificación de la misma en aras de generar mejoras y  No obstante, la sección de la guía de usuario va dirigida a los usuarios finales de la herramienta. Si esta sección es muy compleja, es una buena práctica dedicar un documento específico para esto. Aunque en el archivo Readme se debe especificar la existencia de esta documentación extra.
-
+La audiencia principal de la herramienta y la documentación son profesores y estudiantes de carreras tecnológicas y de ingeniería de sistemas de la Universidad Minuto de Dios, quienes podrán hacer uso y modificación de la misma en aras de generar mejoras y ampliación del conocimiento para las nuevas generaciones de estudiantes que se integren y deseen crear nuevas herramientas con el uso de blockchain.
     
 -   **Licencia para el código de la herramienta:** Ésta herramienta es de caracter educativo y su uso se establece exclusivamente para la Universidad Minuto de Dios, para ser usada como referente en la práctica de enseñanza en carreras tecnológicas y de ingeniería de Sistemas.
 
--   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
+-   **Autores** 
+- Universidad Minuto de DiosSección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyNDE0NTE3LC01MzU3ODYyNDUsNTM5ND
-EzNzMyLC0xNzgwNTQwNDA4LDE2MjU0MTg4NjQsLTE5ODY0NjEy
-NzEsLTI4MzI0MTU5OCwtMzA4MjM4NTQ2LC02OTAwNjc4LC00MT
-czMjE3MDMsLTE3MDAxNzY1MTcsMTAzNTUxNTYyNl19
+eyJoaXN0b3J5IjpbLTE3Mzg0MTM5MDMsLTUzNTc4NjI0NSw1Mz
+k0MTM3MzIsLTE3ODA1NDA0MDgsMTYyNTQxODg2NCwtMTk4NjQ2
+MTI3MSwtMjgzMjQxNTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLT
+QxNzMyMTcwMywtMTcwMDE3NjUxNywxMDM1NTE1NjI2XX0=
 -->
