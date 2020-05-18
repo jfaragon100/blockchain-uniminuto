@@ -31,14 +31,14 @@ Contiene las siguientes características:
 - Los datos no se guardan en los nodos. Éstos son eliminados al reinicio de los mismos o al bajar las instancias.
 - No se ejecutan pruebas de trabajo (PoW) o prueba de participación. Se pueden agregar bloques a la cadena sin competencia.
 
-![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1972&x=86&y=1790&w=1168&h=646&store=1&accept=image%2F*&auth=LCA%2034f8729c4cc0838d14d0aea8b6b1eb4428af3cea-ts%3D1589770150)
+![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1976&x=86&y=1790&w=1168&h=646&store=1&accept=image%2F*&auth=LCA%20fbcec49ed87d642dc61a6f3a1de5ac1b76a27110-ts%3D1589770150)
 ## Funcionamiento
 
-Para usar ésta herramienta se deben contar con conocimientos básicos de Git, Docker, Kubernetes pues son las plataformas con las que se interactuan para poner en funcionamiento la misma.
+Para usar ésta herramienta se deben contar con conocimientos básicos de Git, Docker y Kubernetes, pues son las plataformas con las que se interactuan para poner en funcionamiento la misma.
 
-Se debe instalar en la máquina local docker y descargar la imagen desde `(https://hub.docker.com/repository/docker/jfaragon/blockchain-uniminutov1/general)` y para guiarse en el proceso se pueden soportar en el repositorio `https://github.com/jfaragon100/blockchain-uniminuto`. En éste se detalla la información del proyecto, con sus alcances y limitaciones, así como su funcionamiento, en cada uno de los recursos utilizados, desde el ambito de programación como de arquitectura.
+Se debe instalar en la máquina local docker y descargar la imagen desde `(https://hub.docker.com/repository/docker/jfaragon/blockchain-uniminutov1/general)`. Para guiarse en el proceso se pueden soportar en el repositorio `https://github.com/jfaragon100/blockchain-uniminuto`. En éste se detalla la información del proyecto, con sus alcances y limitaciones, así como su funcionamiento, en cada uno de los recursos utilizados, desde el ambito de programación como de arquitectura.
 
-Con la instalación y puesta en marcha de docker, se iniciará el servicio con un bloque en el cual se encontrarán datos iniciales, como lo son, su "Nombre", el Hash de su predecesor "0" (para el primer bloque), su "Timestamp", los datos dentro del bloque que en este caso son datos de un 
+Con la instalación y puesta en marcha de docker, se iniciará el servicio con un bloque en el cual se encontrarán datos iniciales, como lo son, su "Nombre", el Hash de su predecesor "0" (para el primer bloque), su "Timestamp", los datos dentro del bloque que en este caso son datos de ejemplo de un estudiante (
     
 -   **Licencia para el código de la herramienta:** Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
     
@@ -55,8 +55,8 @@ La audiencia principal de la documentación son desarrolladores. No obstante, la
 
 -   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY1ODM4ODMsLTUzNTc4NjI0NSw1Mz
-k0MTM3MzIsLTE3ODA1NDA0MDgsMTYyNTQxODg2NCwtMTk4NjQ2
-MTI3MSwtMjgzMjQxNTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLT
-QxNzMyMTcwMywtMTcwMDE3NjUxNywxMDM1NTE1NjI2XX0=
+eyJoaXN0b3J5IjpbMjEzOTY1MDY1MCwtNTM1Nzg2MjQ1LDUzOT
+QxMzczMiwtMTc4MDU0MDQwOCwxNjI1NDE4ODY0LC0xOTg2NDYx
+MjcxLC0yODMyNDE1OTgsLTMwODIzODU0NiwtNjkwMDY3OCwtND
+E3MzIxNzAzLC0xNzAwMTc2NTE3LDEwMzU1MTU2MjZdfQ==
 -->
