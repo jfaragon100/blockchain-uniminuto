@@ -46,3 +46,14 @@ En este Script definiremos el ambiente de DevOps en el cual veremos la imagen de
 - Asignamos para nuestro puerto del contenedor el "8080".
 - Lo direccionaremos con el nombre svcserver escuchando el puerto del contenedor "6001".
 - Lo nombraremos  "Listen Socket". 
+
+### La arquitectura resultante se muestra en la siguiente figura
+
+![](https://app.lucidchart.com/documents/edit/ef7c2906-d840-40ea-acf3-4f265b397c47/0_0?beaconFlowId=5ABAFB9FA7B98E3B)
+
+
+
+
+
+
+
