@@ -133,3 +133,13 @@ const ResponseMessage = Object.freeze({
 });
 
 exports.ResponseMessage = ResponseMessage
+
+const Messages = Object.freeze({
+    "queryChainLengthMsg": () => ({'type': MessageType.QUERY_LATEST}),
+    "queryAllMsg": () => ({'type': MessageType.QUERY_ALL}),
+    "responseChainMsg": (data) =>({
+        'type': MessageType.RESPONSE_BLOCKCHAIN, 'data': JSON.stringify(data)
+    })
+});
+
+exports.Messages = Messages;
