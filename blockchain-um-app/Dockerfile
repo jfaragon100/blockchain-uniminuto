@@ -1,0 +1,12 @@
+FROM node:4.6
+
+RUN mkdir /blockchain-um-app
+ADD package.json /blockchain-um-app/
+ADD main.js /blockchain-um-app/
+
+RUN cd /blockchain-um-app && npm install
+
+EXPOSE 8080
+EXPOSE 6001
+
+ENTRYPOINT cd /blockchain-um-app && npm install && NODES=$NODES npm start
