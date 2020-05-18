@@ -14,7 +14,7 @@ Blockchain permite que todas las operaciones sean verificadas por cualquier nodo
 
 Para el desarrollo de éste proyecto se ha tenido en cuenta la utilización de herramientas tecnológicas en dos vías:
 
-La primera de estas es el ambiente de desarrollo de la app que garantizará la interacción de los usuarios con la misma y con la cual podrán llevarse a cabo escenarios de enseñanza y prácticas de entendimiento de la misma. **Ver Readme bc_app**. 
+La primera de estas es el ambiente de desarrollo de la app en la cual se utilizó lenguaje Nodejs el cual  garantizará la interacción de los usuarios con la misma y con la cual podrán llevarse a cabo escenarios de enseñanza y prácticas de entendimiento de la misma. **Ver Readme bc_app**. 
 
 La segunda está enfocada en determinar la arquitectura del proyecto y con el cual podrá realizarse una distribución o replicación determinada por el tutor encargado de la misma. Se considera la elaboración como una guía facil en cuanto a su interpretación y y posible interacción de los usuarios quienes accedan a ella.  **Ver Readme develop**. 
 
@@ -56,8 +56,9 @@ La audiencia principal de la herramienta y la documentación son profesores y es
 - Ing. Yury Bohórquez M.
 	Apoyo en código fuente NodeJs y estructura de datos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzYzNjQyMCwtNTM1Nzg2MjQ1LDUzOT
-QxMzczMiwtMTc4MDU0MDQwOCwxNjI1NDE4ODY0LC0xOTg2NDYx
-MjcxLC0yODMyNDE1OTgsLTMwODIzODU0NiwtNjkwMDY3OCwtND
-E3MzIxNzAzLC0xNzAwMTc2NTE3LDEwMzU1MTU2MjZdfQ==
+eyJoaXN0b3J5IjpbMTMxMTA4ODYyNCwtNDY3NjM2NDIwLC01Mz
+U3ODYyNDUsNTM5NDEzNzMyLC0xNzgwNTQwNDA4LDE2MjU0MTg4
+NjQsLTE5ODY0NjEyNzEsLTI4MzI0MTU5OCwtMzA4MjM4NTQ2LC
+02OTAwNjc4LC00MTczMjE3MDMsLTE3MDAxNzY1MTcsMTAzNTUx
+NTYyNl19
 -->
