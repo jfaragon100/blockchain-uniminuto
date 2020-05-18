@@ -36,7 +36,9 @@ Contiene las siguientes características:
 
 Para usar ésta herramienta se deben contar con conocimientos básicos de Git, Docker, Kubernetes pues son las plataformas con las que se interactuan para poner en funcionamiento la misma.
 
-Se debe instalar en la máquina local docker y descargar la imagen desde `(https://hub.docker.com/repository/docker/jfaragon/blockchain-uniminutov1/general)` y para guiarse en el proceso se pueden soportar en el repositorio `https://github.com/jfaragon100/blockchain-uniminuto`. En éste se detalla la información del proyecto, con sus alcances y limitaciones, así como su funcionamiento, en cada uno de los . 
+Se debe instalar en la máquina local docker y descargar la imagen desde `(https://hub.docker.com/repository/docker/jfaragon/blockchain-uniminutov1/general)` y para guiarse en el proceso se pueden soportar en el repositorio `https://github.com/jfaragon100/blockchain-uniminuto`. En éste se detalla la información del proyecto, con sus alcances y limitaciones, así como su funcionamiento, en cada uno de los recursos utilizados, desde el ambito de programación como de arquitectura.
+
+Con la instalación y puesta en marcha de docker, se iniciará el servicio con un bloque en el cual se encontrarán datos iniciales, como lo son, 
     
 -   **Licencia para el código de la herramienta:** Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
     
@@ -53,8 +55,8 @@ La audiencia principal de la documentación son desarrolladores. No obstante, la
 
 -   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1ODMxOTU5LC01MzU3ODYyNDUsNTM5ND
-EzNzMyLC0xNzgwNTQwNDA4LDE2MjU0MTg4NjQsLTE5ODY0NjEy
-NzEsLTI4MzI0MTU5OCwtMzA4MjM4NTQ2LC02OTAwNjc4LC00MT
-czMjE3MDMsLTE3MDAxNzY1MTcsMTAzNTUxNTYyNl19
+eyJoaXN0b3J5IjpbMTUwNDM4NzU4OSwtNTM1Nzg2MjQ1LDUzOT
+QxMzczMiwtMTc4MDU0MDQwOCwxNjI1NDE4ODY0LC0xOTg2NDYx
+MjcxLC0yODMyNDE1OTgsLTMwODIzODU0NiwtNjkwMDY3OCwtND
+E3MzIxNzAzLC0xNzAwMTc2NTE3LDEwMzU1MTU2MjZdfQ==
 -->
