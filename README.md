@@ -15,7 +15,7 @@ Blockchain permite que todas las operaciones sean verificadas por cualquier nodo
 
 Para el desarrollo de éste proyecto se ha tenido en cuenta la utilización de herramientas tecnológicas en dos vías:
 
-La primera de estas es el ambiente de desarrollo de la app en la cual se utilizó lenguaje NodeJs el cual garantizará la interacción de los usuarios con la misma y con la cual podrán llevarse a cabo escenarios de enseñanza y prácticas de entendimiento de la misma. **Ver Readme blockchain-um-app**. 
+La primera de estas es el ambiente de desarrollo de la app en la cual se utilizó lenguaje NodeJs el cual garantizará la interacción de los usuarios con la misma y con la cual podrán llevarse a cabo escenarios de enseñanza y prácticas de entendimiento de la misma. [**Ver Readme blockchain-um-app**. ](blockchain-um-app/README.md)
 
 La segunda está enfocada en determinar la arquitectura del proyecto y con el cual podrá realizarse una distribución o replicación determinada por el tutor encargado de la misma. Se considera la elaboración como una guía facil en cuanto a su interpretación  y posible interacción de los usuarios quienes accedan a ella.  **Ver Readme Scripts-kubernetes**. 
 
