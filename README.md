@@ -41,7 +41,9 @@ Se debe instalar en la máquina local docker y descargar la imagen desde `(https
 Con la instalación y puesta en marcha de docker, se iniciará el servicio con un bloque en el cual se encontrarán datos iniciales, como lo son, su "Nombre", el Hash de su predecesor "0" (para el primer bloque), su "Timestamp", los datos dentro del bloque que en este caso son datos de ejemplo de un estudiante (Nombre, Carrera, Semestre), su Hash propio, el cual será construido con los parámetros que se muestran en la imagen de la estructura.
 Con los comandos descritos en **Readme develop**, para el uso de docker, se puede ver el estatus de la blockchain, se pueden minar bloques con información personalizada dentro del mismo y se podrá observar como se cumplen los parámetros descritos en la estructura del mismo.
     
--   **Licencia para el código de la herramienta:** Ésta herramienta es de caracter educativa y su uso se establece para la Universidad Minuto de Dios y para ser usada como referente en la práctica de enseñanza para carreras tecnPermisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
+-   **Licencia para el código de la herramienta:** Ésta herramienta es de caracter educativo y su uso se establece exclusivamente para la Universidad Minuto de Dios, para ser usada como referente en la práctica de enseñanza en carreras tecnológicas y de ingeniería de Sistemas.
+- 
+Permisos que se otorgan a terceros para reutilizar la herramienta digital. Debe especificar el tipo de licencia y hacer referencia al archivo license.txt o licencia.txt con el contenido de la licencia. (Leer más sobre cómo licenciar [aquí](https://el-bid.github.io/guia-de-publicacion/documents/licenciamiento/))
     
 -   **Licencia para la documentación de la herramienta:** Recomendamos el uso de las licencias creative commons para el licenciamiento de la documentación de las herramientas. La CC0-1.0, CC-BY-4.0 y CC-BY-SA-4.0 por ejemplo son licencias abiertas que se utilizan para material que no es de software, desde conjuntos de datos hasta videos. Tenga en cuenta que CC-BY-4.0 y CC-BY-SA-4.0 no deben usarse para el software.
     
@@ -56,8 +58,8 @@ La audiencia principal de la documentación son desarrolladores. No obstante, la
 
 -   **Autores** Sección para dar créditos a los colaboradores de la herramienta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNzQwNTQ2LC01MzU3ODYyNDUsNTM5ND
-EzNzMyLC0xNzgwNTQwNDA4LDE2MjU0MTg4NjQsLTE5ODY0NjEy
-NzEsLTI4MzI0MTU5OCwtMzA4MjM4NTQ2LC02OTAwNjc4LC00MT
-czMjE3MDMsLTE3MDAxNzY1MTcsMTAzNTUxNTYyNl19
+eyJoaXN0b3J5IjpbLTE4MDUzMTI5NzYsLTUzNTc4NjI0NSw1Mz
+k0MTM3MzIsLTE3ODA1NDA0MDgsMTYyNTQxODg2NCwtMTk4NjQ2
+MTI3MSwtMjgzMjQxNTk4LC0zMDgyMzg1NDYsLTY5MDA2NzgsLT
+QxNzMyMTcwMywtMTcwMDE3NjUxNywxMDM1NTE1NjI2XX0=
 -->
