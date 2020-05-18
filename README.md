@@ -21,7 +21,8 @@ La segunda está enfocada en determinar la arquitectura del proyecto y con el cu
 
 ## Estructura Blockchain Uniminuto
 
-Esta estructura es de caracter educativa y se elaboró con 
+Esta estructura es de caracter educativa y se elaboró con medidas y configuraciones básicas, que podrán ser mejoradas y modificadas según se considere necesario para adicionar funcionalidades y vonvertirla en un ambiente más estable para su enseñanza y/o uso de la Unversidad Minuto de Dios.
+Contiene las siguientes características 
 - Interfaz HTTP para controlar el nodo
 - Use Websockets para comunicarse con otros nodos (P2P)
 - "Protocolos" super simples en la comunicación P2P
@@ -171,8 +172,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUyMTY2NywtMTc4MDU0MDQwOCwxNj
-I1NDE4ODY0LC0xOTg2NDYxMjcxLC0yODMyNDE1OTgsLTMwODIz
-ODU0NiwtNjkwMDY3OCwtNDE3MzIxNzAzLC0xNzAwMTc2NTE3LD
-EwMzU1MTU2MjZdfQ==
+eyJoaXN0b3J5IjpbODQyOTYzODIxLC0xNzgwNTQwNDA4LDE2Mj
+U0MTg4NjQsLTE5ODY0NjEyNzEsLTI4MzI0MTU5OCwtMzA4MjM4
+NTQ2LC02OTAwNjc4LC00MTczMjE3MDMsLTE3MDAxNzY1MTcsMT
+AzNTUxNTYyNl19
 -->
