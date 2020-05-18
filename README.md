@@ -28,8 +28,8 @@ Contiene las siguientes características:
 - Se cuenta con una Interfaz HTTP para controlar los nodos.
 - Se utilizan  Websockets para la comunicación entre los nodos (P2P).
 - Los "Protocolos" para la comunicación P2P son simples.
-- Los datos no se guardan en los nodos. Éstos son el
-- Sin prueba de trabajo o prueba de participación: se puede agregar un bloque a la cadena de bloques sin competencia
+- Los datos no se guardan en los nodos. Éstos son eliminados al reinicio de los mismos o al bajar las instancias.
+- No se ejecutan pruebas de trabajo (PoW) o prueba de participación. Se pueden agregar bloques a la cadena sin competencia.
 
 ![](https://documents.app.lucidchart.com/documents/a6c09840-c139-463f-aac6-53d3c2346ab0/pages/fLIdogm_myHX?a=1972&x=86&y=1790&w=1168&h=646&store=1&accept=image%2F*&auth=LCA%2034f8729c4cc0838d14d0aea8b6b1eb4428af3cea-ts%3D1589770150)
 
@@ -38,10 +38,6 @@ Contiene las siguientes características:
 
 
 
-
-
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
 ## Switch to another file
 
@@ -174,8 +170,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTk1NTg3OSwtMTc4MDU0MDQwOCwxNj
-I1NDE4ODY0LC0xOTg2NDYxMjcxLC0yODMyNDE1OTgsLTMwODIz
-ODU0NiwtNjkwMDY3OCwtNDE3MzIxNzAzLC0xNzAwMTc2NTE3LD
-EwMzU1MTU2MjZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjQwMjg0MjksLTE3ODA1NDA0MDgsMT
+YyNTQxODg2NCwtMTk4NjQ2MTI3MSwtMjgzMjQxNTk4LC0zMDgy
+Mzg1NDYsLTY5MDA2NzgsLTQxNzMyMTcwMywtMTcwMDE3NjUxNy
+wxMDM1NTE1NjI2XX0=
 -->
