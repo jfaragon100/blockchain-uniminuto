@@ -42,6 +42,10 @@ class Block {
         this.hash = hash.toString();
     }
 
+    static toBlock (newBlock) {
+        return Object.assign(this, newBlock)
+    }
+
     static initialBlock () {
         var student = {
             name: 'John the First',
@@ -90,6 +94,7 @@ class BlockChain {
     addBlock (newBlock) {
         if (newBlock.isValid(this.lastBlockInChain())) {
             this.chain.push(newBlock);
+            console.log('Nuevo bloque: ' + JSON.stringify(newBlock));
             //responseMsj = ResponseMessage.NEW_BLOCK_SUCCESSFUL;
         }
     }

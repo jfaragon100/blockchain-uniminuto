@@ -3,6 +3,7 @@
 var express = require("express");
 var bodyParser = require('body-parser');
 const {Block, Messages} = require('./models')
+const {ConnectionSocket} = require("./socket-service");
 
 class ServerHTTP {
     static initHttpServer (blockChain, s, port) {
@@ -20,7 +21,7 @@ class ServerHTTP {
             res.send(s.lstSockets.map(s => s._socket.remoteAddress + ':' + s._socket.remotePort));
         });
         app.post('/addNode', (req, res) => {
-            connectToNodes([req.body.peer]);
+            ConnectionSocket.connectToNodes([req.body.node], blockChain, s);
             res.send();
         });
         app.listen(port, () => console.log('Servidor HTTP en puerto: ' + port));

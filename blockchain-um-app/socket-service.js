@@ -1,7 +1,7 @@
 'use strict';
 
 const WebSocket = require("ws");
-const {Socket, Messages, MessageType} = require('./models')
+const {Block, Socket, Messages, MessageType} = require('./models')
 
 class ConnectionSocket {
     static connectToNodes (newNodes, blockChain, s) {
@@ -53,7 +53,7 @@ class ConnectionSocket {
     };
     
     static handleBlockchainResponse (message, blockChain, s) {
-        var receivedBlocksArray = JSON.parse(message.data).sort((b1, b2) => (b1.index - b2.index));
+        var receivedBlocksArray = JSON.parse(message.data).sort((b1, b2) => (b1.index - b2.index)).map(b => Block.toBlock(b));
         var latestBlockReceived = receivedBlocksArray[receivedBlocksArray.length - 1];
         var latestBlockHeld = blockChain.lastBlockInChain();
         console.log("latestBlockReceived.index " + latestBlockReceived.index + " latestBlockHeld.index " + latestBlockHeld.index);
