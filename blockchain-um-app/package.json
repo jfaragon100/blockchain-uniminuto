@@ -1,0 +1,29 @@
+{
+  "name": "blockchain-um-app",
+  "version": "1.0.0",
+  "description": "Blockchain application UniMinuto based on git+https://github.com/lhartikk/naivechain",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "crypto-js": "^3.1.6",
+    "express": "~4.11.1",
+    "ws": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=8.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfaragon100/blockchain-uniminuto.git"
+  },
+  "author": "jfaragon100",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfaragon100/blockchain-uniminuto/issues"
+  },
+  "homepage": "https://github.com/jfaragon100/blockchain-uniminuto#readme"
+}

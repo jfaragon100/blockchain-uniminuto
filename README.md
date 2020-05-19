@@ -56,11 +56,3 @@ La audiencia principal de la herramienta y la documentación son profesores y es
 	Tutor y Líder de Semillero de Investigación "Blockchain".
 - Ing. Yury Bohórquez M.
 	Apoyo en código fuente NodeJs.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzkxMzI5NCwtMTA0OTE2NDE2OCwxOD
-QwMDY4NjQ2LDE4MzA4MTE0OSwtMTA5ODc1NzI5MiwtNDY3NjM2
-NDIwLC01MzU3ODYyNDUsNTM5NDEzNzMyLC0xNzgwNTQwNDA4LD
-E2MjU0MTg4NjQsLTE5ODY0NjEyNzEsLTI4MzI0MTU5OCwtMzA4
-MjM4NTQ2LC02OTAwNjc4LC00MTczMjE3MDMsLTE3MDAxNzY1MT
-csMTAzNTUxNTYyNl19
--->
