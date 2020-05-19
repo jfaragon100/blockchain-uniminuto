@@ -23,6 +23,3 @@ spec:
         - containerPort: 6001
           name: listen-socket
 
-
-
-
