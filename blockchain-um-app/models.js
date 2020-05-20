@@ -64,15 +64,15 @@ class Block {
 
     isValid (lastBlock) {
         if (lastBlock.index + 1 !== this.index) {
-            console.log('invalid index');
+            console.log('\n\n' + ResponseMessage.NEW_BLOCK_INVALID_INDEX);
             //responseMsj = ResponseMessage.NEW_BLOCK_INVALID_INDEX;
             return false;
         } else if (lastBlock.hash !== this.previousHash) {
-            console.log('invalid previoushash');
+            console.log('\n\n' + ResponseMessage.NEW_BLOCK_INVALID_PREVIOUS_HASH);
             //responseMsj = ResponseMessage.NEW_BLOCK_INVALID_PREVIOUS_HASH;
             return false;
         } else if (Hash.calculateForBlock(this) !== this.hash) {
-            console.log('invalid hash: ' + Hash.calculateForBlock(this) + ' ' + this.hash);
+            console.log('\n\n ' + ResponseMessage.NEW_BLOCK_INVALID_PREVIOUS_HASH + Hash.calculateForBlock(this) + ' ' + this.hash);
             //responseMsj = ResponseMessage.NEW_BLOCK_INVALID_HASH;
             return false;
         }
@@ -94,7 +94,7 @@ class BlockChain {
     addBlock (newBlock) {
         if (newBlock.isValid(this.lastBlockInChain())) {
             this.chain.push(newBlock);
-            console.log('Nuevo bloque: ' + JSON.stringify(newBlock));
+            console.log('\n\n' + ResponseMessage.NEW_BLOCK_SUCCESSFUL + JSON.stringify(newBlock));
             //responseMsj = ResponseMessage.NEW_BLOCK_SUCCESSFUL;
         }
     }

@@ -24,7 +24,7 @@ class ServerHTTP {
             ConnectionSocket.connectToNodes([req.body.node], blockChain, s);
             res.send();
         });
-        app.listen(port, () => console.log('Servidor HTTP en puerto: ' + port));
+        app.listen(port, () => console.log('\n\nServidor HTTP en puerto: ' + port));
     };
 }
 
