@@ -14,15 +14,12 @@ spec:
         app: blockchain-uniminuto
     spec: 
       containers: 
-      - name: blockchian-uniminuto-containerv1
-        image: jfaragon/blockchain-uniminutov1:firsttry
+      - name: blockchain-uniminuto-containerv1
+        image: jfaragon/blockchain-umd:latest
         imagePullPolicy: Always
         ports: 
         - containerPort: 8080
           name: svcserver
         - containerPort: 6001
           name: listen-socket
-
-
-
 

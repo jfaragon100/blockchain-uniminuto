@@ -7,6 +7,7 @@ ADD server-service.js /blockchain-um-app/
 ADD socket-service.js /blockchain-um-app/
 ADD main.js /blockchain-um-app/
 
+RUN apt-get update && apt-get install net-tools
 RUN cd /blockchain-um-app && npm install
 
 EXPOSE 8080
